@@ -6,6 +6,6 @@ I am a software developer.
 - (Frontend) NodeTS/React
 - (Data science) Python/ NumPy/ Pandas
 - (System programming) C/C++
-- Linux/ Bash
+- :computer: Linux/ Bash
 - :whale: Docker/Docker Compose
 - Git / GitHub / GitLab
