@@ -1,7 +1,7 @@
-I am an experienced C software developer, currently expanding my experience in Web full stack software development in
-42 Wolfsburg.
+## 🕶 Full Stack Developer
+I am an experienced C software developer, currently expanding my experience in Web full stack software development in 42 Wolfsburg.
+### Skills and Experience
 
-## Skills and Experience
 - :computer: (Web full stack) NodeTS/Nest/React
 - :bar_chart: (Data science) Python/ NumPy/ Pandas
 - :floppy_disk: (System programming) C/C++
