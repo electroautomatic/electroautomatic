@@ -6,4 +6,3 @@ I am a full stack developer with experience in C development, as well as working
 - :bar_chart: (Data science) Python/ NumPy/ Pandas
 - :floppy_disk: (System programming) C/C++
 - :whale: Docker/Docker Compose
-- Git / GitHub / GitLab
