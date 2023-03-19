@@ -2,7 +2,10 @@
 I am a software developer. 
 
 ## Skills and Experience
-* NodeTS
-* ReactTS
-* NestTS
-* 💻 HTML, CSS, JS
+- (Backend) NodeTS/Nest
+- (Frontend) NodeTS/React
+- (Data science) Python/ NumPy/ Pandas
+- (System programming) C/C++
+- Linux/ Bash
+- Docker/Docker Compose
+- Git / GitHub / GitLab
