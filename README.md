@@ -7,5 +7,5 @@ I am a software developer.
 - (Data science) Python/ NumPy/ Pandas
 - (System programming) C/C++
 - Linux/ Bash
-- Docker/Docker Compose
+- :whale: Docker/Docker Compose
 - Git / GitHub / GitLab
