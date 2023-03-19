@@ -2,6 +2,7 @@
 I am a software developer. 
 
 ## Skills and Experience
-* ⚛ React
-* 📱 React Native
+* NodeTS
+* ReactTS
+* NestTS
 * 💻 HTML, CSS, JS
