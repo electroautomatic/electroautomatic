@@ -1,5 +1,5 @@
 ## 🕶 Full Stack Web developer
-I am a full stack web developer with experience in C development, as well as working with Docker and Docker Compose.
+I'm a full stack web developer with experience in C development, as well as working with Docker and Docker Compose.
 ### Skills and Experience
 
 - :computer: (Web full stack) NodeTS/Nest/React/PostgreSQL
