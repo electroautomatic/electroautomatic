@@ -1,5 +1,6 @@
 # Anton Isakov
-I am a software developer. 
+I am an experienced C software developer, currently expanding my experience in Web full stack software development in
+42 Wolfsburg.
 
 ## Skills and Experience
 - :factory: (Backend) NodeTS/Nest
