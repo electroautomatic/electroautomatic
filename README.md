@@ -1,5 +1,5 @@
 ## 🕶 Full Stack Developer
-I am an experienced C software developer, currently expanding my experience in Web full stack software development in 42 Wolfsburg.
+I am a full stack developer with experience in C development, as well as working with Docker and Docker Compose.
 ### Skills and Experience
 
 - :computer: (Web full stack) NodeTS/Nest/React
