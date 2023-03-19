@@ -2,7 +2,7 @@
 I am a software developer. 
 
 ## Skills and Experience
-- :books: (Backend) NodeTS/Nest
+- :factory: (Backend) NodeTS/Nest
 - :computer: (Frontend) NodeTS/React
 - :bar_chart: (Data science) Python/ NumPy/ Pandas
 - :floppy_disk: (System programming) C/C++
