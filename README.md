@@ -1,4 +1,4 @@
-## 🕶 Full Stack Web developer
+## 🕶 Full Stack developer
 I'm a full stack web developer with experience in C/C++ development, as well as working with Docker.
 ### Skills and Experience
 
